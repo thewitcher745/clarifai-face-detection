@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/clarifai-face-detection/static/css/main.30788ae9.chunk.css",
-    "main.js": "/clarifai-face-detection/static/js/main.40513922.chunk.js",
-    "main.js.map": "/clarifai-face-detection/static/js/main.40513922.chunk.js.map",
-    "runtime-main.js": "/clarifai-face-detection/static/js/runtime-main.e7f94687.js",
-    "runtime-main.js.map": "/clarifai-face-detection/static/js/runtime-main.e7f94687.js.map",
+    "main.css": "/clarifai-face-detection/static/css/main.ab5a05c3.chunk.css",
+    "main.js": "/clarifai-face-detection/static/js/main.b622a10b.chunk.js",
+    "main.js.map": "/clarifai-face-detection/static/js/main.b622a10b.chunk.js.map",
+    "runtime-main.js": "/clarifai-face-detection/static/js/runtime-main.93ac062b.js",
+    "runtime-main.js.map": "/clarifai-face-detection/static/js/runtime-main.93ac062b.js.map",
     "static/css/2.c1f4f5f4.chunk.css": "/clarifai-face-detection/static/css/2.c1f4f5f4.chunk.css",
-    "static/js/2.6dd6c61e.chunk.js": "/clarifai-face-detection/static/js/2.6dd6c61e.chunk.js",
-    "static/js/2.6dd6c61e.chunk.js.map": "/clarifai-face-detection/static/js/2.6dd6c61e.chunk.js.map",
-    "static/js/3.a1507252.chunk.js": "/clarifai-face-detection/static/js/3.a1507252.chunk.js",
-    "static/js/3.a1507252.chunk.js.map": "/clarifai-face-detection/static/js/3.a1507252.chunk.js.map",
+    "static/js/2.3527c270.chunk.js": "/clarifai-face-detection/static/js/2.3527c270.chunk.js",
+    "static/js/2.3527c270.chunk.js.map": "/clarifai-face-detection/static/js/2.3527c270.chunk.js.map",
+    "static/js/3.e3367296.chunk.js": "/clarifai-face-detection/static/js/3.e3367296.chunk.js",
+    "static/js/3.e3367296.chunk.js.map": "/clarifai-face-detection/static/js/3.e3367296.chunk.js.map",
     "index.html": "/clarifai-face-detection/index.html",
     "static/css/2.c1f4f5f4.chunk.css.map": "/clarifai-face-detection/static/css/2.c1f4f5f4.chunk.css.map",
-    "static/css/main.30788ae9.chunk.css.map": "/clarifai-face-detection/static/css/main.30788ae9.chunk.css.map",
-    "static/js/2.6dd6c61e.chunk.js.LICENSE.txt": "/clarifai-face-detection/static/js/2.6dd6c61e.chunk.js.LICENSE.txt",
+    "static/css/main.ab5a05c3.chunk.css.map": "/clarifai-face-detection/static/css/main.ab5a05c3.chunk.css.map",
+    "static/js/2.3527c270.chunk.js.LICENSE.txt": "/clarifai-face-detection/static/js/2.3527c270.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/clarifai-face-detection/static/media/logo.88caec61.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7f94687.js",
+    "static/js/runtime-main.93ac062b.js",
     "static/css/2.c1f4f5f4.chunk.css",
-    "static/js/2.6dd6c61e.chunk.js",
-    "static/css/main.30788ae9.chunk.css",
-    "static/js/main.40513922.chunk.js"
+    "static/js/2.3527c270.chunk.js",
+    "static/css/main.ab5a05c3.chunk.css",
+    "static/js/main.b622a10b.chunk.js"
   ]
 }
